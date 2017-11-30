@@ -9,7 +9,7 @@
 
 # Note
 
-This project is a fork of [Angular-Electron](https://github.com/maximegris/angular-electron) with few changes. I added Lazy Loading with some ready to use base Modules (Core, Shared, Dashboard) and Components that are used in any common Angular project using Lazy loading. Also I added:
+This project is a fork of [Angular-Electron](https://github.com/maximegris/angular-electron) with few changes. I added Lazy Loading with some ready to use base Modules (Core, Shared, Dashboard) and Components that are used in many common Angular project using Lazy loading. Also I added:
 * [Materialize CSS Framework](http://materializecss.com/)
 * [Ng2-Materialize](https://www.npmjs.com/package/ng2-materialize) : An Angular wrapper for Materialize that allow you to use Components/Directives instead of HTML tags.
 * [Material Design Icons](https://materialdesignicons.com/) : An alternative to Google Icons with more icons made by the community.
