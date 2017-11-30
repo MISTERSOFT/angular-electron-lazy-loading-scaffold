@@ -7,7 +7,7 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/MISTERSOFT/angular-electron-lazy-loading-scaffold.svg)](https://github.com/MISTERSOFT/angular-electron-lazy-loading-scaffold/watchers)
 [![GitHub stars](https://img.shields.io/github/stars/MISTERSOFT/angular-electron-lazy-loading-scaffold.svg)](https://github.com/MISTERSOFT/angular-electron-lazy-loading-scaffold/stargazers)
 
-# Pre-introduction
+# Note
 
 This project is a fork of [Angular-Electron](https://github.com/maximegris/angular-electron) with few changes. I added Lazy Loading with some ready to use base Modules (Core, Shared, Dashboard) and Components that are used in any common Angular project using Lazy loading. Also I added:
 * [Materialize CSS Framework](http://materializecss.com/)
