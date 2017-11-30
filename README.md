@@ -1,13 +1,11 @@
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-
 [![Angular Logo](./logo-angular.jpg)](https://angular.io/) [![Electron Logo](./logo-electron.jpg)](https://electron.atom.io/)
 
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](LICENSE.md)
-<a class="github-button" href="https://github.com/MISTERSOFT" data-size="large" data-show-count="true" aria-label="Follow @MISTERSOFT on GitHub">Follow @MISTERSOFT</a>
-[![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch&style=plastic)](https://github.com/MISTERSOFT/angular-electron-lazy-loading-scaffold)
-[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars&style=plastic)](https://github.com/MISTERSOFT/angular-electron-lazy-loading-scaffold)
+[![GitHub license](https://img.shields.io/github/license/MISTERSOFT/angular-electron-lazy-loading-scaffold.svg)](https://github.com/MISTERSOFT/angular-electron-lazy-loading-scaffold/blob/master/LICENSE.md)
+[![GitHub issues](https://img.shields.io/github/issues/MISTERSOFT/angular-electron-lazy-loading-scaffold.svg)](https://github.com/MISTERSOFT/angular-electron-lazy-loading-scaffold/issues)
+[![GitHub watchers](https://img.shields.io/github/watchers/MISTERSOFT/angular-electron-lazy-loading-scaffold.svg)](https://github.com/MISTERSOFT/angular-electron-lazy-loading-scaffold/watchers)
+[![GitHub stars](https://img.shields.io/github/stars/MISTERSOFT/angular-electron-lazy-loading-scaffold.svg)](https://github.com/MISTERSOFT/angular-electron-lazy-loading-scaffold/stargazers)
 
 # Pre-introduction
 
@@ -120,3 +118,4 @@ You can find end-to-end tests in /e2e folder.
 You can run tests with the command lines below : 
 - **in a terminal window** -> First, start a web server on port 4200 : `npm run start:web`  
 - **in another terminal window** -> Then, launch Protractor (E2E framework): `npm run e2e`
+
