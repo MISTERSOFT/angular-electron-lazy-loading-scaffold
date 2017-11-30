@@ -38,13 +38,17 @@ With this sample, you can :
 Clone this repository locally :
 
 ``` bash
-git clone https://github.com/maximegris/angular-electron.git
+git clone https://github.com/MISTERSOFT/angular-electron-lazy-loading-scaffold.git
 ```
 
-Install dependencies with npm :
+Install dependencies with npm or yarn :
 
 ``` bash
+# Using npm
 npm install
+
+# Using yarn
+yarn
 ```
 
 There is an issue with `yarn` and `node_modules` that are only used in electron on the backend when the application is built by the packager. Please use `npm` as dependencies manager.
@@ -53,7 +57,11 @@ If you want to generate Angular components with Angular-cli , you **MUST** insta
 Please follow [Angular-cli documentation](https://github.com/angular/angular-cli) if you had installed a previous version of `angular-cli`.
 
 ``` bash
+# Using npm
 npm install -g @angular/cli
+
+# Using yarn
+yarn global add @angular/cli
 ```
 
 ## To build for development
