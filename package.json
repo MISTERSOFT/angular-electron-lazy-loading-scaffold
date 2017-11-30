@@ -1,18 +1,17 @@
 {
-  "name": "angular-electron",
+  "name": "angular-electron-lazy-loading-scaffold",
   "version": "2.2.0",
-  "description": "Angular 5 with Electron (Typescript + SASS + Hot Reload)",
+  "description": "Angular 5 (Lazy Loading Ready) with Electron (Typescript + SASS + Hot Reload + MaterializeCSS)",
   "homepage": "https://github.com/maximegris/angular-electron",
-  "author": {
-    "name": "Maxime GRIS",
-    "email": "maxime.gris@gmail.com"
-  },
   "keywords": [
     "angular",
     "angular 5",
     "electron",
     "typescript",
-    "sass"
+    "sass",
+    "scaffold",
+    "lazy",
+    "starter"
   ],
   "main": "main.js",
   "private": true,
@@ -47,6 +46,9 @@
     "@angular/router": "5.0.3",
     "core-js": "2.4.1",
     "enhanced-resolve": "3.3.0",
+    "materialize-css": "^0.100.2",
+    "mdi": "^2.0.46",
+    "ng2-materialize": "^1.7.2",
     "rxjs": "5.5.2",
     "zone.js": "0.8.17"
   },
@@ -61,8 +63,8 @@
     "autoprefixer": "7.1.4",
     "circular-dependency-plugin": "3.0.0",
     "codelyzer": "3.2.0",
-    "copyfiles": "1.2.0",
     "copy-webpack-plugin": "4.1.1",
+    "copyfiles": "1.2.0",
     "cross-env": "5.0.5",
     "css-loader": "0.28.7",
     "cssnano": "3.10.0",

@@ -1,12 +1,9 @@
-import { HomeComponent } from './components/home/home.component';
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
 const routes: Routes = [
-    {
-        path: '',
-        component: HomeComponent
-    }
+    { path: '', loadChildren: 'app/dashboard/dashboard.module#DashboardModule' },
+    { path: '**', loadChildren: 'app/not-found/not-found.module#NotFoundModule' }
 ];
 
 @NgModule({
