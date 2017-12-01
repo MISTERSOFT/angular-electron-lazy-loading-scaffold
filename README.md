@@ -14,6 +14,11 @@ This project is a fork of [Angular-Electron](https://github.com/maximegris/angul
 * [Ng2-Materialize](https://www.npmjs.com/package/ng2-materialize) : An Angular wrapper for Materialize that allow you to use Components/Directives instead of HTML tags.
 * [Material Design Icons](https://materialdesignicons.com/) : An alternative to Google Icons with more icons made by the community.
 
+<span style="color:#e74c3c;">Important things:</span>
+* If you want to add third-party libraries, you have to add your scripts in the **wepack.config.js** and **.angular-cli.json** files. Like so:
+
+![Angular Logo](./external_scripts.jpg)
+
 # Introduction
 
 Bootstrap and package your project with Angular 5(+) and Electron (Typescript + SASS + Hot Reload) for creating Desktop applications.

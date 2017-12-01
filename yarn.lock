@@ -46,6 +46,12 @@
     minimist "^1.2.0"
     rxjs "^5.5.2"
 
+"@angular/animations@^5.0.4":
+  version "5.0.4"
+  resolved "https://registry.yarnpkg.com/@angular/animations/-/animations-5.0.4.tgz#772af01dfd7dcf4ae2b189be577b79858b4e4ed0"
+  dependencies:
+    tslib "^1.7.1"
+
 "@angular/cli@1.5.3":
   version "1.5.3"
   resolved "https://registry.yarnpkg.com/@angular/cli/-/cli-1.5.3.tgz#9d98abbfdf42706853dfeb10f33410adf6b8038b"
@@ -3607,7 +3613,7 @@ jasminewd2@^2.1.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/jasminewd2/-/jasminewd2-2.2.0.tgz#e37cf0b17f199cce23bea71b2039395246b4ec4e"
 
-"jquery@^3.0.0 || ^2.1.4":
+"jquery@^3.0.0 || ^2.1.4", jquery@^3.2.1:
   version "3.2.1"
   resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.2.1.tgz#5c4d9de652af6cd0a770154a631bba12b015c787"
 
