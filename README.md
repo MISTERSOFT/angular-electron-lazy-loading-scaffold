@@ -17,7 +17,7 @@ This project is a fork of [Angular-Electron](https://github.com/maximegris/angul
 <span style="color:#e74c3c;">Important things:</span>
 * If you want to add third-party libraries, you have to add your scripts in the **wepack.config.js** and **.angular-cli.json** files. Like so:
 
-![Angular Logo](./external_scripts.jpg)
+![External scripts](./external_scripts.JPG)
 
 # Introduction
 
