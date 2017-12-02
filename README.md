@@ -1,4 +1,6 @@
-[![Angular Logo](./logo-angular.jpg)](https://angular.io/) [![Electron Logo](./logo-electron.jpg)](https://electron.atom.io/)
+[![Angular Logo](./logo-angular.jpg)](https://angular.io/)
+[![Electron Logo](./logo-electron.jpg)](https://electron.atom.io/)
+[![](./materializecss.png)](https://electron.atom.io/)
 
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
